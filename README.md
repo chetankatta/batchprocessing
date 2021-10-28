@@ -1,2 +1,2 @@
-# batchprocessing
-this is the sample batch process
+# database bulkinsert
+this is the sample dbinsert process
